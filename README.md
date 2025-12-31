@@ -129,11 +129,6 @@ class AkshayKumar:
 %%{init: {'theme':'dark'}}%%
 mindmap
   root((AI Engineering))
-    Generative AI
-      LangGraph
-      LangChain
-      LangSmith
-      RAG Systems
     Deep Learning
       YOLO
       Computer Vision
