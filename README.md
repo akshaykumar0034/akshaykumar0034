@@ -127,24 +127,29 @@ class AkshayKumar:
 ## 🎯 Current Focus
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 mindmap
   root((AI Engineering))
     Generative AI
       LangGraph
       LangChain
       LangSmith
+      RAG Systems
     Deep Learning
       YOLO
       Computer Vision
       NLP
+      Transformers
     System Design
       Scalable APIs
       Microservices
       Cloud Deploy
+      CI/CD
     Real World Impact
       Financial Tech
       Automation
       Production Systems
+      ML Deployment
 ```
 
 **What I'm Currently Doing:**
