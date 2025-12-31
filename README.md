@@ -149,6 +149,10 @@ mindmap
       Automation
       Production Systems
       ML Deployment
+   Soft Skills
+       Communication
+        Presentation
+        Problem Solving
 ```
 
 **What I'm Currently Doing:**
