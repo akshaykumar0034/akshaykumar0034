@@ -124,38 +124,25 @@ class AkshayKumar:
 
 ---
 
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Generative AI
-- LangGraph & LangChain
-- LangSmith
-- Advanced RAG Systems
-
-### 🧠 Deep Learning
-- YOLO & Computer Vision
-- NLP & Transformers
-- Model Optimization
-
-</td>
-<td width="50%">
-
-### ⚙️ System Design
-- Scalable APIs
-- Microservices Architecture
-- Cloud Deployment
-
-### 🎯 Real World Impact
-- Financial Tech Solutions
-- Automation Systems
-- Production ML
-
-</td>
-</tr>
-</table>
+🎯 Current Focus
+mermaidmindmap
+  root((AI Engineering))
+    Generative AI
+      LangGraph
+      LangChain
+      LangSmith
+    Deep Learning
+      YOLO
+      Computer Vision
+      NLP
+    System Design
+      Scalable APIs
+      Microservices
+      Cloud Deploy
+    Real World Impact
+      Financial Tech
+      Automation
+      Production Systems
 
 **What I'm Currently Doing:**
 - 🔭 Building production-grade LLM applications with LangGraph and LangChain
