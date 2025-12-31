@@ -124,7 +124,9 @@ class AkshayKumar:
 
 ---
 
-🎯 Current Focus
+## 🎯 Current Focus
+
+```mermaid
 mindmap
   root((AI Engineering))
     Generative AI
@@ -143,6 +145,7 @@ mindmap
       Financial Tech
       Automation
       Production Systems
+```
 
 **What I'm Currently Doing:**
 - 🔭 Building production-grade LLM applications with LangGraph and LangChain
