@@ -153,12 +153,6 @@ mindmap
       LangChain
       LangSmith
       RAG Systems
-
-  style root fill:#9ca3af,color:#000,stroke:#ffffff,stroke-width:2px
-  style "Deep Learning" fill:#3b82f6,color:#ffffff
-  style "System Design" fill:#ec4899,color:#ffffff
-  style "Real World Impact" fill:#64748b,color:#ffffff
-  style "Generative AI" fill:#f59e0b,color:#000000
 ```
 
 **What I'm Currently Doing:**
