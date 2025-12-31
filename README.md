@@ -125,7 +125,7 @@ class AkshayKumar:
 ---
 
 🎯 Current Focus
-mermaidmindmap
+mindmap
   root((AI Engineering))
     Generative AI
       LangGraph
