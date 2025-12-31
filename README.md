@@ -129,6 +129,7 @@ class AkshayKumar:
 %%{init: {'theme':'dark'}}%%
 mindmap
   root((AI Engineering))
+
     Deep Learning
       YOLO
       Computer Vision
@@ -144,10 +145,11 @@ mindmap
       Automation
       Production Systems
       ML Deployment
-   Soft Skills
-       Communication
-        Presentation
-        Problem Solving
+   Generative AI
+      LangGraph
+      LangChain
+      LangSmith
+      RAG Systems
 ```
 
 **What I'm Currently Doing:**
