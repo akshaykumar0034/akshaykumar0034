@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaykumar0034)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imakshaykumar07@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Generative+AI+%26+LLM+Specialist;Building+Scalable+AI+Solutions;Ex-TATA+Steel+%7C+IBM+Finalist;LangGraph+%7C+LangChain+%7C+Deep+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Generative+AI+%26+LLM+Specialist;Building+Scalable+AI+Solutions;Ex-TATA+Steel+%7C+IBM+Finalist;LangGraph+%7C+LangChain+%7C+Deep+Learning;Spring+Boot+%7C+Microservices" alt="Typing SVG" />
 
 </div>
 
@@ -109,44 +109,55 @@ class AkshayKumar:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaykumar0034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar0034&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaykumar0034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar0034&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar0034&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar0034&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar0034&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=akshaykumar0034&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-```mermaid
-mindmap
-  root((AI Engineering))
-    Generative AI
-      LangGraph
-      LangChain
-      LangSmith
-    Deep Learning
-      YOLO
-      Computer Vision
-      NLP
-    System Design
-      Scalable APIs
-      Microservices
-      Cloud Deploy
-    Real World Impact
-      Financial Tech
-      Automation
-      Production Systems
-```
+<table>
+<tr>
+<td width="50%">
 
+### 🤖 Generative AI
+- LangGraph & LangChain
+- LangSmith
+- Advanced RAG Systems
+
+### 🧠 Deep Learning
+- YOLO & Computer Vision
+- NLP & Transformers
+- Model Optimization
+
+</td>
+<td width="50%">
+
+### ⚙️ System Design
+- Scalable APIs
+- Microservices Architecture
+- Cloud Deployment
+
+### 🎯 Real World Impact
+- Financial Tech Solutions
+- Automation Systems
+- Production ML
+
+</td>
+</tr>
+</table>
+
+**What I'm Currently Doing:**
 - 🔭 Building production-grade LLM applications with LangGraph and LangChain
 - 🌱 Deepening expertise in system design and scalable backend architectures
 - 👯 Open to collaborating on AI/ML projects and innovative solutions
@@ -187,11 +198,9 @@ mindmap
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-[![Akshay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar0034&theme=tokyo-night&hide_border=true)](https://github.com/akshaykumar0034)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar0034&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
