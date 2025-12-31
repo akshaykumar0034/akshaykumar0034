@@ -128,38 +128,37 @@ class AkshayKumar:
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 mindmap
-  root((AI Engineering)):::root
+  root((AI Engineering))
 
-    Deep Learning:::dl
+    Deep Learning
       YOLO
       Computer Vision
       NLP
       Transformers
 
-    System Design:::sd
+    System Design
       Scalable APIs
       Microservices
       Cloud Deploy
       CI/CD
 
-    Real World Impact:::impact
+    Real World Impact
       Financial Tech
       Automation
       Production Systems
       ML Deployment
 
-    Generative AI:::genai
+    Generative AI
       LangGraph
       LangChain
       LangSmith
       RAG Systems
 
-classDef root fill:#9ca3af,color:#000,stroke:#fff,stroke-width:2px
-classDef dl fill:#3b82f6,color:#fff
-classDef sd fill:#ec4899,color:#fff
-classDef impact fill:#64748b,color:#fff
-classDef genai fill:#f59e0b,color:#000
-
+  style root fill:#9ca3af,color:#000,stroke:#ffffff,stroke-width:2px
+  style "Deep Learning" fill:#3b82f6,color:#ffffff
+  style "System Design" fill:#ec4899,color:#ffffff
+  style "Real World Impact" fill:#64748b,color:#ffffff
+  style "Generative AI" fill:#f59e0b,color:#000000
 ```
 
 **What I'm Currently Doing:**
